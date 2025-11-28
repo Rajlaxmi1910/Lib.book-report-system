@@ -1,0 +1,15 @@
+==== Library Menu ====
+1. Add Book
+2. View Books
+3. Search Book
+4. Update Book
+5. Delete Book
+6. Exit
+
+Choose: 4
+Enter id to update: 101
+New name: C Programming Updated
+New writer: D. Ritchie
+New cost: 320
+
+Updated.
