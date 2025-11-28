@@ -1,4 +1,4 @@
-Description
+#Description
 
 This project is a simple C-based Library Management System that allows users to store and manage book records using a binary file (books.dat). It supports adding, viewing, searching, updating, and deleting book records through a menu‑driven console interface.
 Each book contains:
@@ -7,8 +7,9 @@ Name (string)
 Writer (string)
 Cost (float)
 
-Repository Structure
-       ...   library-management/
+#Repository Structure
+---
+          library-management/
           ├── src/
           │ └── main.c
           ├── assets/
@@ -19,8 +20,8 @@ Repository Structure
           |  ├── Algorithm.txt
           │ ├── Flowchart.txt
           │ └── ProjectReport.pdf
-        ...  └── README.md
-
+          └── README.md
+---
 Requirements
 
 A C compiler (GCC recommended)
