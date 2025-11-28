@@ -1,1 +1,12 @@
-
+1: Start the program. 
+2: Display the menu: 
+• Add Book 
+• View Books 
+• Search Book 
+• Update Book 
+• Delete Book 
+• Exit 
+3: Accept the user’s choice. 
+4: Perform actions based on the choice 
+5: Repeat the menu until the user chooses Exit. 
+6: End program. 
