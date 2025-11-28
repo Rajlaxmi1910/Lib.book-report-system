@@ -1,0 +1,13 @@
+==== Library Menu ====
+1. Add Book
+2. View Books
+3. Search Book
+4. Update Book
+5. Delete Book
+6. Exit
+Choose: 1
+Enter id: 101
+Enter name: C Programming Basics
+Enter writer: Dennis Ritchie
+Enter cost: 299.50
+Saved.
