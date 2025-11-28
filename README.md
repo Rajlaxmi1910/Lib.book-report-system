@@ -8,7 +8,7 @@ Writer (string)
 Cost (float)
 
 Repository Structure
-library-management/
+...library-management/
 ├── src/
 │ └── main.c
 ├── assets/
@@ -19,7 +19,7 @@ library-management/
 |  ├── Algorithm.txt
 │ ├── Flowchart.txt
 │ └── ProjectReport.pdf
-└── README.md
+└── README.md...
 
 Requirements
 
