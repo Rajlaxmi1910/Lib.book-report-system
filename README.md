@@ -8,18 +8,18 @@ Writer (string)
 Cost (float)
 
 Repository Structure
-library-management/...
-├── src/
-│ └── main.c
-├── assets/
-│ ├── sample_output1.png
-│ ├── sample_output2.png
-│ └── sample_output3.png
-├── docs/
-|  ├── Algorithm.txt
-│ ├── Flowchart.txt
-│ └── ProjectReport.pdf
-└── README.md...
+       ...   library-management/
+          ├── src/
+          │ └── main.c
+          ├── assets/
+          │ ├── sample_output1.png
+          │ ├── sample_output2.png
+          │ └── sample_output3.png
+          ├── docs/
+          |  ├── Algorithm.txt
+          │ ├── Flowchart.txt
+          │ └── ProjectReport.pdf
+        ...  └── README.md
 
 Requirements
 
