@@ -15,9 +15,9 @@ Output3.png
 Output4.png
 Output5.png
 sample_input/
-input1.txt
-input2.txt
-input3.txt
-input4.txt
-input5.txt
+lib.book input1.txt
+lib.book input2.txt
+lib.book input3.txt
+lib.book input4.txt
+lib.book input5.txt
 README.md
