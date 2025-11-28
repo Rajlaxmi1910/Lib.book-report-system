@@ -8,7 +8,7 @@ Writer (string)
 Cost (float)
 
 Repository Structure
-...library-management/
+library-management/...
 ├── src/
 │ └── main.c
 ├── assets/
